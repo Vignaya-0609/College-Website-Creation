@@ -1,0 +1,188 @@
+* {
+    margin: 0
+  }
+  
+  .container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 200pxvh;
+    background-color:white;
+  }
+  
+  .container h1 {
+    color: rgb(12, 54, 12);
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  
+  .registartion-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: #45535a;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  .registartion-form input,
+  .registartion-form select,
+  .registartion-form textarea {
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+    font-family: sans-serif;
+  }
+  
+  .registartion-form input:focus,
+  .registartion-form textarea:focus {
+    box-shadow: 3px 3px 10px rgb(228, 228, 228), -3px -3px 10px rgb(224, 224, 224);
+  }
+  
+  .registartion-form .submit {
+    width: 100%;
+    padding: 8px 0;
+    font-size: 20px;
+    color: rgb(44, 44, 44);
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+  
+  .registartion-form .submit:hover {
+    box-shadow: 3px 3px 6px rgb(255, 214, 176);
+  }
+  .reach{
+    background-color: yellow;
+    text-align: center;
+    font-size: larger;
+    margin: 15px;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    
+  }
+  .fa {
+    padding: 18px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .top{
+    background-color:yellow;
+    text-align: center;
+    padding: 6px;
+    margin: 7px;
+    color:black;
+    border-radius: 20px;
+}
+li{
+color: white;
+display: inline;
+padding: 20px;
+text-align: center;
+}
+.ab{
+text-decoration: none;
+color: white;
+}
+.foot{
+text-align: center;
+color: white;
+padding: 5px;
+}
+.img{
+  padding-left: 670px;
+}
+.tab{
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+margin: 15px;
+background-color: yellow;
+border-radius: 20px;
+}
+.top{
+  background-color:yellow;
+  text-align: center;
+  padding: 6px;
+  margin: 7px;
+  color:black;
+  border-radius: 20px;
+}
+.tab{
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+margin: 15px;
+background-color: yellow;
+border-radius: 20px;
+}
+.container3{
+  padding-left: 250px;
+}
+.reach1{
+  background-color: yellow;
+    text-align: center;
+    font-size: larger;
+    margin: 10px;
+    color: black;
+    padding: 5px;
+    border-radius: 7px;
+}
+.para{
+  text-align: left;
+  background-color: #45535a;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  color: white;
+}
+.words{
+  padding:5px;
+  margin: 3px;
+}
